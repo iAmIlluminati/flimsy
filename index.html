@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script type="text/javascript" src="/asserts/js/index.js" asyc>  </script>
+  <script type="text/javascript" src="/asserts/js/vanilla-tilt.min.js"async></script>
+  <!-- <script type="text/javascript" src="/asserts/js/lazysizes.min.js" async></script> -->
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="asserts/css/style.css" />
+  <meta name="viewport" content="width=device-width, maximum-scale=2.0 user-scalable=no" />
+  <script>
+        
+        var xmlFile = loadXMLDoc("movies.xml");
+        var xmlStyleFile = loadXMLDoc("styleXML.xsl");
+        var titleSort ={
+          value:false,
+          true:"descending",
+          false:"ascending",
+          order: function(){
+            if(this.value){
+              this.value = false;
+              return this.false;
+            }
+            this.value = true;
+            return this.true;
+          }
+        }
+        var yearSort = {
+            value: false,
+            true: "descending",
+            false: "ascending",
+            order: function () {
+              if (this.value) {
+                this.value=false;
+                return this.false;
+              }
+              this.value=true;
+              return this.true;
+            }
+        }
+
+        var filterToggle = {
+            classToToggle: "hiddenElement",
+            toggle: function () {
+              document.getElementById("filterContainer").classList.toggle(this.classToToggle);;
+            }
+        }
+
+
+
+        function fetchGenre(element) {
+          genreString=element.srcElement.innerHTML.toLowerCase().trim();
+          // console.log(element.srcElement.innerHTML)
+          displayMovieResults(xmlFile, xmlStyleFile, "title", "ascending", genreString, "genrelist");
+        }
+        function fetchOnSearch(element) {
+            displayMovieResults(xmlFile, xmlStyleFile, "title", "ascending", element.value.toLowerCase().trim(), "title");
+        }
+
+        function initializeHTML() {
+            displayMovieResults(xmlFile,xmlStyleFile);
+            genreSet = xPATHExecuter(xmlFile,"//genre");
+            str = ""
+
+            for (let i of genreSet) {
+              str = str + " <button class='filter-button' >" + i + " </button>\n ";
+            }
+
+            document.getElementById("filterSet").innerHTML = str;
+
+            var inputField = document.querySelector('#movieSearchBar');
+            inputField.addEventListener("input", (e) => fetchOnSearch(e.srcElement), false);
+            document.body.scrollTop = document.documentElement.scrollTop = 0;
+            //to tackle scrolling on creating element        
+
+            var filterField = document.querySelectorAll('.filter-button');
+            // filterField[0].onclick= (e) => fetchGenre(e.innerHTML)
+            filterField.forEach(ele=>{ele.onclick=fetchGenre})
+            // console.log(filterField[0].innerHTML)
+
+            //to console log all titles
+            // titleSet = xPATHExecuter(xmlFile,"//movie//title");
+            // str = ""
+            // for (let i of titleSet) {
+            //   str = str + " <option>" + i + " </option>\n ";
+            // }
+            // document.getElementById("movieDataList").innerHTML = str;
+                        
+        }
+
+      
+  </script>
+  
+</head>
+
+<body onload="initializeHTML()" >
+      <input type="text" class="searchBar" id="movieSearchBar" list="movieDataList" placeholder="Search Movie"/>
+      <!-- <datalist id="movieDataList">    </datalist> -->
+
+
+      <div class="buttonContainer">
+              <a onclick='displayMovieResults(xmlFile,xmlStyleFile,"year",yearSort.order(),"","title")' class="sortingText">
+                <img src="asserts/img/sort.png" style="vertical-align:middle" />
+                <span>Sort by Year</span>
+              </a>
+              <a onclick='displayMovieResults(xmlFile,xmlStyleFile,"title",titleSort.order(),"","title")' class="sortingText">
+                <img src="asserts/img/sort.png"style="vertical-align:middle"/>
+                <span>Sort by Title</span>
+              </a>
+              <a onclick='filterToggle.toggle()' class="sortingText">
+                <img src="asserts/img/filter.png" style="vertical-align:middle;width: 1.1rem; height: 1.1rem;" />
+                <span>Filter</span>
+              </a>
+      </div>
+      <div id="filterContainer" class="hiddenElement">
+        <div id="filterSet"></div>
+      </div>
+
+      <div id="moviedata"></div>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+<!ELEMENT movielist (movie)*>
+<!ELEMENT movie (id,title,year,runtime,genrelist,director,actors,plot,posterUrl)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT runtime (#PCDATA)>
+<!ELEMENT genrelist (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT actors (#PCDATA)>
+<!ELEMENT plot (#PCDATA)>
+<!ELEMENT posterUrl EMPTY>
+<!ATTLIST posterUrl src CDATA "0">

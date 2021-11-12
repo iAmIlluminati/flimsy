@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movielist SYSTEM "movielist.dtd">
+<?xml-stylesheet type="text/xsl" href="styleXML.xsl"?>
+<!-- <?xml-stylesheet  type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"?> -->
+<movielist>
+  <movie>
+    <id>1</id>
+    <title>Beetlejuice</title>
+    <year>1988</year>
+    <runtime>92</runtime>
+    <genrelist>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+    </genrelist>
+    <director>Tim Burton</director>
+    <actors>Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page</actors>
+    <plot>A couple of recently deceased ghosts contract the services of a "bio-exorcist" in order to remove the obnoxious new owners of their house.</plot>
+    <posterUrl>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg</posterUrl>
+  </movie>
+ <movie>
+    <id>1</id>
+    <title>Beetlejuice</title>
+    <year>1988</year>
+    <runtime>92</runtime>
+    <genrelist>
+      <genre>Comedy</genre>
+      <genre>Fantasy</genre>
+    </genrelist>
+    <director>Tim Burton</director>
+    <actors>Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page</actors>
+    <plot>A couple of recently deceased ghosts contract the services of a "bio-exorcist" in order to remove the obnoxious new owners of their house.</plot>
+    <posterUrl>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg</posterUrl>
+  </movie>
+</movielist>

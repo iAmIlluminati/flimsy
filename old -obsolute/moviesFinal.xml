@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movielist SYSTEM "movielist.dtd">
+<?xml-stylesheet type="text/xsl" href="styleXML.xsl"?>
+<movielist>
+    <movie>
+        <id>4</id>
+        <title>Crocodile Dundee</title>
+        <year>1986</year>
+        <runtime>97</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Peter Faiman</director>
+        <actors>Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil</actors>
+        <plot>An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>6</id>
+        <title>Ratatouille</title>
+        <year>2007</year>
+        <runtime>111</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genrelist>
+        <director>Brad Bird, Jan Pinkava</director>
+        <actors>Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy</actors>
+        <plot>A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>7</id>
+        <title>City of God</title>
+        <year>2002</year>
+        <runtime>130</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Fernando Meirelles, Kátia Lund</director>
+        <actors>Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva</actors>
+        <plot>Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>10</id>
+        <title>Stardust</title>
+        <year>2007</year>
+        <runtime>127</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Matthew Vaughn</director>
+        <actors>Ian McKellen, Bimbo Hart, Alastair MacIntosh, David Kelly</actors>
+        <plot>In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>11</id>
+        <title>Apocalypto</title>
+        <year>2006</year>
+        <runtime>139</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Mel Gibson</director>
+        <actors>Rudy Youngblood, Dalia Hernández, Jonathan Brewer, Morris Birdyellowhead</actors>
+        <plot>As the Mayan kingdom faces its decline, the rulers insist the key to prosperity is to build more temples and offer human sacrifices. Jaguar Paw, a young man captured for sacrifice, flees to avoid his fate.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNTM1NjYyNTY5OV5BMl5BanBnXkFtZTcwMjgwNTMzMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>13</id>
+        <title>No Country for Old Men</title>
+        <year>2007</year>
+        <runtime>122</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Ethan Coen, Joel Coen</director>
+        <actors>Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson</actors>
+        <plot>Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>17</id>
+        <title>The Third Man</title>
+        <year>1949</year>
+        <runtime>93</runtime>
+        <genrelist>
+            <genre>Film-Noir</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Carol Reed</director>
+        <actors>Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard</actors>
+        <plot>Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>18</id>
+        <title>The Beach</title>
+        <year>2000</year>
+        <runtime>119</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Danny Boyle</director>
+        <actors>Leonardo DiCaprio, Daniel York, Patcharawan Patarakijjanon, Virginie Ledoyen</actors>
+        <plot>Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2ViYTFiZmUtOTIxZi00YzIxLWEyMzUtYjQwZGNjMjNhY2IwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>19</id>
+        <title>Scarface</title>
+        <year>1983</year>
+        <runtime>170</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Brian De Palma</director>
+        <actors>Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio</actors>
+        <plot>In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>20</id>
+        <title>Sid and Nancy</title>
+        <year>1986</year>
+        <runtime>112</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+        </genrelist>
+        <director>Alex Cox</director>
+        <actors>Gary Oldman, Chloe Webb, David Hayman, Debby Bishop</actors>
+        <plot>Morbid biographical story of Sid Vicious, bassist with British punk group the Sex Pistols, and his girlfriend Nancy Spungen. When the Sex Pistols break up after their fateful US tour, ...</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjA5NzY4M15BMl5BanBnXkFtZTcwNjQ2NzI5NA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>21</id>
+        <title>Black Swan</title>
+        <year>2010</year>
+        <runtime>108</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Darren Aronofsky</director>
+        <actors>Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey</actors>
+        <plot>A committed dancer wins the lead role in a production of Tchaikovsky's "Swan Lake" only to find herself struggling to maintain her sanity.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>22</id>
+        <title>Inception</title>
+        <year>2010</year>
+        <runtime>148</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Christopher Nolan</director>
+        <actors>Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy</actors>
+        <plot>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>24</id>
+        <title>Chasing Amy</title>
+        <year>1997</year>
+        <runtime>113</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Kevin Smith</director>
+        <actors>Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee</actors>
+        <plot>Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3MTg2MGUtZDM0MC00NzMwLWE5NjItOWFjNjA2M2I4YzgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>26</id>
+        <title>The Silence of the Lambs</title>
+        <year>1991</year>
+        <runtime>118</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Jonathan Demme</director>
+        <actors>Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz</actors>
+        <plot>A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>29</id>
+        <title>Midnight Express</title>
+        <year>1978</year>
+        <runtime>121</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Alan Parker</director>
+        <actors>Brad Davis, Irene Miracle, Bo Hopkins, Paolo Bonacelli</actors>
+        <plot>Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDA5MzkyOF5BMl5BanBnXkFtZTgwOTYwNTcxMTE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>30</id>
+        <title>Pulp Fiction</title>
+        <year>1994</year>
+        <runtime>154</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Quentin Tarantino</director>
+        <actors>Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta</actors>
+        <plot>The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>31</id>
+        <title>Lock, Stock and Two Smoking Barrels</title>
+        <year>1998</year>
+        <runtime>107</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genrelist>
+        <director>Guy Ritchie</director>
+        <actors>Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham</actors>
+        <plot>A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>32</id>
+        <title>Lucky Number Slevin</title>
+        <year>2006</year>
+        <runtime>110</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genrelist>
+        <director>Paul McGuigan</director>
+        <actors>Josh Hartnett, Bruce Willis, Lucy Liu, Morgan Freeman</actors>
+        <plot>A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1OTEwMTk4OF5BMl5BanBnXkFtZTcwMTEzMDQzMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>33</id>
+        <title>Rear Window</title>
+        <year>1954</year>
+        <runtime>112</runtime>
+        <genrelist>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Alfred Hitchcock</director>
+        <actors>James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter</actors>
+        <plot>A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>35</id>
+        <title>Shutter Island</title>
+        <year>2010</year>
+        <runtime>138</runtime>
+        <genrelist>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Martin Scorsese</director>
+        <actors>Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow</actors>
+        <plot>In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>36</id>
+        <title>Reservoir Dogs</title>
+        <year>1992</year>
+        <runtime>99</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Quentin Tarantino</director>
+        <actors>Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn</actors>
+        <plot>After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjE5ZDJiZTQtOGE2YS00ZTc5LTk0OGUtOTg2NjdjZmVlYzE2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>41</id>
+        <title>Moneyball</title>
+        <year>2011</year>
+        <runtime>133</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Sport</genre>
+        </genrelist>
+        <director>Bennett Miller</director>
+        <actors>Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright</actors>
+        <plot>Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>42</id>
+        <title>The Hangover</title>
+        <year>2009</year>
+        <runtime>100</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Todd Phillips</director>
+        <actors>Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha</actors>
+        <plot>Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MDA1MTYwMF5BMl5BanBnXkFtZTcwMDcxMzA1Mg@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>43</id>
+        <title>The Great Beauty</title>
+        <year>2013</year>
+        <runtime>141</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Paolo Sorrentino</director>
+        <actors>Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso</actors>
+        <plot>Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>45</id>
+        <title>Mary and Max</title>
+        <year>2009</year>
+        <runtime>92</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Adam Elliot</director>
+        <actors>Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana</actors>
+        <plot>A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>46</id>
+        <title>Flight</title>
+        <year>2012</year>
+        <runtime>138</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Robert Zemeckis</director>
+        <actors>Nadine Velazquez, Denzel Washington, Carter Cabassa, Adam C. Edwards</actors>
+        <plot>An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>47</id>
+        <title>One Flew Over the Cuckoo's Nest</title>
+        <year>1975</year>
+        <runtime>133</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Milos Forman</director>
+        <actors>Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown</actors>
+        <plot>A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>48</id>
+        <title>Requiem for a Dream</title>
+        <year>2000</year>
+        <runtime>102</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Darren Aronofsky</director>
+        <actors>Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans</actors>
+        <plot>The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODMzODYwOF5BMl5BanBnXkFtZTcwODM2NjA2NQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>49</id>
+        <title>The Truman Show</title>
+        <year>1998</year>
+        <runtime>103</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Peter Weir</director>
+        <actors>Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone</actors>
+        <plot>An insurance salesman/adjuster discovers his entire life is actually a television show.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>50</id>
+        <title>The Artist</title>
+        <year>2011</year>
+        <runtime>100</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Michel Hazanavicius</director>
+        <actors>Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell</actors>
+        <plot>A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>52</id>
+        <title>The Hobbit: The Desolation of Smaug</title>
+        <year>2013</year>
+        <runtime>161</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Peter Jackson</director>
+        <actors>Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott</actors>
+        <plot>The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>55</id>
+        <title>Lost in Translation</title>
+        <year>2003</year>
+        <runtime>101</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Sofia Coppola</director>
+        <actors>Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe</actors>
+        <plot>A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>56</id>
+        <title>Match Point</title>
+        <year>2005</year>
+        <runtime>119</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Woody Allen</director>
+        <actors>Jonathan Rhys Meyers, Alexander Armstrong, Paul Kaye, Matthew Goode</actors>
+        <plot>At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNzY4MzE5NF5BMl5BanBnXkFtZTcwMzQ1MDMzMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>59</id>
+        <title>Madagascar: Escape 2 Africa</title>
+        <year>2008</year>
+        <runtime>89</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+        </genrelist>
+        <director>Eric Darnell, Tom McGrath</director>
+        <actors>Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith</actors>
+        <plot>The animals try to fly back to New York City, but crash-land on an African wildlife refuge, where Alex is reunited with his parents.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>60</id>
+        <title>Despicable Me 2</title>
+        <year>2013</year>
+        <runtime>98</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Pierre Coffin, Chris Renaud</director>
+        <actors>Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove</actors>
+        <plot>When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>61</id>
+        <title>Downfall</title>
+        <year>2004</year>
+        <runtime>156</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genrelist>
+        <director>Oliver Hirschbiegel</director>
+        <actors>Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes</actors>
+        <plot>Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTI1MjE2Nl5BMl5BanBnXkFtZTcwMTEwMzc4NA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>62</id>
+        <title>Madagascar</title>
+        <year>2005</year>
+        <runtime>86</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Eric Darnell, Tom McGrath</director>
+        <actors>Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith</actors>
+        <plot>Spoiled by their upbringing with no idea what wild life is really like, four animals from New York Central Zoo escape, unwittingly assisted by four absconding penguins, and find themselves in Madagascar, among a bunch of merry lemurs</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NDUwMzQxMF5BMl5BanBnXkFtZTcwMDgwNjgyMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>63</id>
+        <title>Madagascar 3: Europe's Most Wanted</title>
+        <year>2012</year>
+        <runtime>93</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Eric Darnell, Tom McGrath, Conrad Vernon</director>
+        <actors>Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith</actors>
+        <plot>Alex, Marty, Gloria and Melman are still fighting to get home to their beloved Big Apple. Their journey takes them through Europe where they find the perfect cover: a traveling circus, which they reinvent - Madagascar style.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>64</id>
+        <title>God Bless America</title>
+        <year>2011</year>
+        <runtime>105</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genrelist>
+        <director>Bobcat Goldthwait</director>
+        <actors>Joel Murray, Tara Lynne Barr, Melinda Page Hamilton, Mackenzie Brooke Smith</actors>
+        <plot>On a mission to rid society of its most repellent citizens, terminally ill Frank makes an unlikely accomplice in 16-year-old Roxy.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTc1MzA4NF5BMl5BanBnXkFtZTcwNzQwMTgzNw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>65</id>
+        <title>The Social Network</title>
+        <year>2010</year>
+        <runtime>120</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>David Fincher</director>
+        <actors>Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons</actors>
+        <plot>Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2ODk0NDAwMF5BMl5BanBnXkFtZTcwNTM1MDc2Mw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>69</id>
+        <title>American Gangster</title>
+        <year>2007</year>
+        <runtime>157</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Ridley Scott</director>
+        <actors>Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin</actors>
+        <plot>In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNzY5MDA5MV5BMl5BanBnXkFtZTcwMjg4MzI3MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>70</id>
+        <title>Catch Me If You Can</title>
+        <year>2002</year>
+        <runtime>141</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Steven Spielberg</director>
+        <actors>Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen</actors>
+        <plot>The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>71</id>
+        <title>American History X</title>
+        <year>1998</year>
+        <runtime>119</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Tony Kaye</director>
+        <actors>Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien</actors>
+        <plot>A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>73</id>
+        <title>Pirates of the Caribbean: At World's End</title>
+        <year>2007</year>
+        <runtime>169</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Gore Verbinski</director>
+        <actors>Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley</actors>
+        <plot>Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>75</id>
+        <title>Crash</title>
+        <year>2004</year>
+        <runtime>112</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Paul Haggis</director>
+        <actors>Karina Arroyave, Dato Bakhtadze, Sandra Bullock, Don Cheadle</actors>
+        <plot>Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>76</id>
+        <title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
+        <year>2003</year>
+        <runtime>143</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Gore Verbinski</director>
+        <actors>Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley</actors>
+        <plot>Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>78</id>
+        <title>Oldboy</title>
+        <year>2003</year>
+        <runtime>120</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Chan-wook Park</director>
+        <actors>Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji</actors>
+        <plot>After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>79</id>
+        <title>Chocolat</title>
+        <year>2000</year>
+        <runtime>121</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Lasse Hallström</director>
+        <actors>Alfred Molina, Carrie-Anne Moss, Aurelien Parent Koenig, Antonio Gil</actors>
+        <plot>A woman and her daughter open a chocolate shop in a small French village that shakes up the rigid morality of the community.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MDI3NTQwMV5BMl5BanBnXkFtZTcwNjIzNDcyMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>80</id>
+        <title>Casino Royale</title>
+        <year>2006</year>
+        <runtime>144</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Martin Campbell</director>
+        <actors>Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench</actors>
+        <plot>Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>81</id>
+        <title>WALL·E</title>
+        <year>2008</year>
+        <runtime>98</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Family</genre>
+        </genrelist>
+        <director>Andrew Stanton</director>
+        <actors>Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard</actors>
+        <plot>In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>82</id>
+        <title>The Wolf of Wall Street</title>
+        <year>2013</year>
+        <runtime>180</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genrelist>
+        <director>Martin Scorsese</director>
+        <actors>Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey</actors>
+        <plot>Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>83</id>
+        <title>Hellboy II: The Golden Army</title>
+        <year>2008</year>
+        <runtime>120</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Guillermo del Toro</director>
+        <actors>Ron Perlman, Selma Blair, Doug Jones, John Alexander</actors>
+        <plot>The mythical world starts a rebellion against humanity in order to rule the Earth, so Hellboy and his team must save the world from the rebellious creatures.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>85</id>
+        <title>I-See-You.Com</title>
+        <year>2006</year>
+        <runtime>92</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Eric Steven Stahl</director>
+        <actors>Beau Bridges, Rosanna Arquette, Mathew Botuchis, Shiri Appleby</actors>
+        <plot>A 17-year-old boy buys mini-cameras and displays the footage online at I-see-you.com. The cash rolls in as the site becomes a major hit. Everyone seems to have fun until it all comes crashing down....</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMDUzNzA5Nl5BMl5BanBnXkFtZTcwMjQ2Njk3MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>86</id>
+        <title>The Grand Budapest Hotel</title>
+        <year>2014</year>
+        <runtime>99</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genrelist>
+        <director>Wes Anderson</director>
+        <actors>Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody</actors>
+        <plot>The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>88</id>
+        <title>Once Upon a Time in America</title>
+        <year>1984</year>
+        <runtime>229</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Sergio Leone</director>
+        <actors>Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci</actors>
+        <plot>A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>89</id>
+        <title>Oblivion</title>
+        <year>2013</year>
+        <runtime>124</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Mystery</genre>
+        </genrelist>
+        <director>Joseph Kosinski</director>
+        <actors>Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough</actors>
+        <plot>A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>90</id>
+        <title>V for Vendetta</title>
+        <year>2005</year>
+        <runtime>132</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>James McTeigue</director>
+        <actors>Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry</actors>
+        <plot>In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>91</id>
+        <title>Gattaca</title>
+        <year>1997</year>
+        <runtime>106</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Andrew Niccol</director>
+        <actors>Ethan Hawke, Uma Thurman, Gore Vidal, Xander Berkeley</actors>
+        <plot>A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDQxOTc0MzMtZmRlOS00OWQ5LWI2ZDctOTAwNmMwOTYxYzlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>92</id>
+        <title>Silver Linings Playbook</title>
+        <year>2012</year>
+        <runtime>122</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>David O. Russell</director>
+        <actors>Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver</actors>
+        <plot>After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>93</id>
+        <title>Alice in Wonderland</title>
+        <year>2010</year>
+        <runtime>108</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Tim Burton</director>
+        <actors>Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway</actors>
+        <plot>Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>95</id>
+        <title>Pacific Rim</title>
+        <year>2013</year>
+        <runtime>131</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Guillermo del Toro</director>
+        <actors>Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi</actors>
+        <plot>As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>98</id>
+        <title>Cloud Atlas</title>
+        <year>2012</year>
+        <runtime>172</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Tom Tykwer, Lana Wachowski, Lilly Wachowski</director>
+        <actors>Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving</actors>
+        <plot>An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>99</id>
+        <title>The Impossible</title>
+        <year>2012</year>
+        <runtime>114</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>J.A. Bayona</director>
+        <actors>Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin</actors>
+        <plot>The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTA3NzQ5Nl5BMl5BanBnXkFtZTcwOTYxNjY0OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>102</id>
+        <title>Dallas Buyers Club</title>
+        <year>2013</year>
+        <runtime>117</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Jean-Marc Vallée</director>
+        <actors>Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare</actors>
+        <plot>In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>104</id>
+        <title>Before Sunrise</title>
+        <year>1995</year>
+        <runtime>105</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Richard Linklater</director>
+        <actors>Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl</actors>
+        <plot>A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>105</id>
+        <title>The Rum Diary</title>
+        <year>2011</year>
+        <runtime>120</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Bruce Robinson</director>
+        <actors>Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard</actors>
+        <plot>American journalist Paul Kemp takes on a freelance job in Puerto Rico for a local newspaper during the 1960s and struggles to find a balance between island culture and the expatriates who live there.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>108</id>
+        <title>Calvary</title>
+        <year>2014</year>
+        <runtime>102</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>John Michael McDonagh</director>
+        <actors>Brendan Gleeson, Chris O'Dowd, Kelly Reilly, Aidan Gillen</actors>
+        <plot>After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>110</id>
+        <title>Spirited Away</title>
+        <year>2001</year>
+        <runtime>125</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Family</genre>
+        </genrelist>
+        <director>Hayao Miyazaki</director>
+        <actors>Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô</actors>
+        <plot>During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>111</id>
+        <title>Indochine</title>
+        <year>1992</year>
+        <runtime>159</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Régis Wargnier</director>
+        <actors>Catherine Deneuve, Vincent Perez, Linh Dan Pham, Jean Yanne</actors>
+        <plot>This story is set in 1930, at the time when French colonial rule in Indochina is ending. A widowed French woman who works in the rubber fields, raises a Vietnamese princess as if she was ...</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1MTkzNzA3NF5BMl5BanBnXkFtZTYwNTI2MzU5._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>112</id>
+        <title>Birdman or (The Unexpected Virtue of Ignorance)</title>
+        <year>2014</year>
+        <runtime>119</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Alejandro G. Iñárritu</director>
+        <actors>Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe</actors>
+        <plot>Illustrated upon the progress of his latest Broadway play, a former popular actor's struggle to cope with his current life as a wasted actor is shown.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>113</id>
+        <title>Boyhood</title>
+        <year>2014</year>
+        <runtime>165</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Richard Linklater</director>
+        <actors>Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater</actors>
+        <plot>The life of Mason, from early childhood to his arrival at college.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>116</id>
+        <title>Interstellar</title>
+        <year>2014</year>
+        <runtime>169</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Christopher Nolan</director>
+        <actors>Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow</actors>
+        <plot>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>117</id>
+        <title>Big Nothing</title>
+        <year>2006</year>
+        <runtime>86</runtime>
+        <genrelist>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Jean-Baptiste Andrea</director>
+        <actors>David Schwimmer, Simon Pegg, Alice Eve, Natascha McElhone</actors>
+        <plot>A frustrated, unemployed teacher joining forces with a scammer and his girlfriend in a blackmailing scheme.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTc2NjYwOV5BMl5BanBnXkFtZTcwMzk5OTY0MQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>118</id>
+        <title>Das Boot</title>
+        <year>1981</year>
+        <runtime>149</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Wolfgang Petersen</director>
+        <actors>Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch</actors>
+        <plot>The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5Mzk5OTQ0Nl5BMl5BanBnXkFtZTYwNzUwMTQ5._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>119</id>
+        <title>Shrek 2</title>
+        <year>2004</year>
+        <runtime>93</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Andrew Adamson, Kelly Asbury, Conrad Vernon</director>
+        <actors>Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews</actors>
+        <plot>Princess Fiona's parents invite her and Shrek to dinner to celebrate her marriage. If only they knew the newlyweds were both ogres.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MTMwNjI4M15BMl5BanBnXkFtZTcwMjExMzUyMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>120</id>
+        <title>Sin City</title>
+        <year>2005</year>
+        <runtime>124</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genrelist>
+        <director>Frank Miller, Robert Rodriguez, Quentin Tarantino</director>
+        <actors>Jessica Alba, Devon Aoki, Alexis Bledel, Powers Boothe</actors>
+        <plot>A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>122</id>
+        <title>Shrek</title>
+        <year>2001</year>
+        <runtime>90</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Andrew Adamson, Vicky Jenson</director>
+        <actors>Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow</actors>
+        <plot>After his swamp is filled with magical creatures, an ogre agrees to rescue a princess for a villainous lord in order to get his land back.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTE1NTE0M15BMl5BanBnXkFtZTgwNjY4NTYxMTE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>123</id>
+        <title>Mr. &amp; Mrs. Smith</title>
+        <year>2005</year>
+        <runtime>120</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genrelist>
+        <director>Doug Liman</director>
+        <actors>Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody</actors>
+        <plot>A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>124</id>
+        <title>Original Sin</title>
+        <year>2001</year>
+        <runtime>116</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Michael Cristofer</director>
+        <actors>Antonio Banderas, Angelina Jolie, Thomas Jane, Jack Thompson</actors>
+        <plot>A woman along with her lover, plan to con a rich man by marrying him and on earning his trust running away with all his money. Everything goes as planned until she actually begins to fall in love with him.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BODg3Mjg0MDY4M15BMl5BanBnXkFtZTcwNjY5MDQ2NA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>127</id>
+        <title>Despicable Me</title>
+        <year>2010</year>
+        <runtime>95</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Pierre Coffin, Chris Renaud</director>
+        <actors>Steve Carell, Jason Segel, Russell Brand, Julie Andrews</actors>
+        <plot>When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>129</id>
+        <title>The Hobbit: An Unexpected Journey</title>
+        <year>2012</year>
+        <runtime>169</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+        </genrelist>
+        <director>Peter Jackson</director>
+        <actors>Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott</actors>
+        <plot>A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>130</id>
+        <title>The Great Gatsby</title>
+        <year>2013</year>
+        <runtime>143</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>Baz Luhrmann</director>
+        <actors>Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley</actors>
+        <plot>A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>131</id>
+        <title>Ice Age</title>
+        <year>2002</year>
+        <runtime>81</runtime>
+        <genrelist>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+        </genrelist>
+        <director>Chris Wedge, Carlos Saldanha</director>
+        <actors>Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic</actors>
+        <plot>Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>133</id>
+        <title>The Lord of the Rings: The Two Towers</title>
+        <year>2002</year>
+        <runtime>179</runtime>
+        <genrelist>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Peter Jackson</director>
+        <actors>Bruce Allpress, Sean Astin, John Bach, Sala Baker</actors>
+        <plot>While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>134</id>
+        <title>Ex Machina</title>
+        <year>2015</year>
+        <runtime>108</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Alex Garland</director>
+        <actors>Domhnall Gleeson, Corey Johnson, Oscar Isaac, Alicia Vikander</actors>
+        <plot>A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>135</id>
+        <title>The Theory of Everything</title>
+        <year>2014</year>
+        <runtime>123</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genrelist>
+        <director>James Marsh</director>
+        <actors>Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry</actors>
+        <plot>A look at the relationship between the famous physicist Stephen Hawking and his wife.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>136</id>
+        <title>Shogun</title>
+        <year>1980</year>
+        <runtime>60</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genrelist>
+        <director>N/A</director>
+        <actors>Richard Chamberlain, Toshirô Mifune, Yôko Shimada, Furankî Sakai</actors>
+        <plot>A English navigator becomes both a player and pawn in the complex political games in feudal Japan.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1ODI4NzYxMl5BMl5BanBnXkFtZTcwNDA4MzUxMQ@@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>137</id>
+        <title>Spotlight</title>
+        <year>2015</year>
+        <runtime>128</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Tom McCarthy</director>
+        <actors>Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber</actors>
+        <plot>The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>139</id>
+        <title>Whiplash</title>
+        <year>2014</year>
+        <runtime>107</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+        </genrelist>
+        <director>Damien Chazelle</director>
+        <actors>Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist</actors>
+        <plot>A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>141</id>
+        <title>Hotel Rwanda</title>
+        <year>2004</year>
+        <runtime>121</runtime>
+        <genrelist>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>War</genre>
+        </genrelist>
+        <director>Terry George</director>
+        <actors>Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim</actors>
+        <plot>Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzQyNTc1M15BMl5BanBnXkFtZTYwMjExNjc3._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>142</id>
+        <title>The Martian</title>
+        <year>2015</year>
+        <runtime>144</runtime>
+        <genrelist>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+        </genrelist>
+        <director>Ridley Scott</director>
+        <actors>Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels</actors>
+        <plot>An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>144</id>
+        <title>The Hateful Eight</title>
+        <year>2015</year>
+        <runtime>187</runtime>
+        <genrelist>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genrelist>
+        <director>Quentin Tarantino</director>
+        <actors>Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins</actors>
+        <plot>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg"/>
+    </movie>
+    <movie>
+        <id>146</id>
+        <title>The Big Short</title>
+        <year>2015</year>
+        <runtime>130</runtime>
+        <genrelist>
+            <genre>Biography</genre>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genrelist>
+        <director>Adam McKay</director>
+        <actors>Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert</actors>
+        <plot>Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.</plot>
+        <posterUrl src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"/>
+    </movie>
+</movielist>
